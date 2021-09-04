@@ -1,6 +1,6 @@
 -- CREDITS TO Flood and Grave
 -- // Services
-local accomidationfactor = 0.100
+local accomidationfactor = 0.085
 local Players = game:GetService("Players")
 
 -- // Vars
